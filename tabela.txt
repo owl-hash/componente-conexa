@@ -1,0 +1,20 @@
+Tabela de componentes
+
+81137 componentes de tamanho 1
+719 componentes de tamanho 2
+198 componentes de tamanho 3
+69 componentes de tamanho 4
+27 componentes de tamanho 5
+16 componentes de tamanho 6
+9 componentes de tamanho 7
+4 componentes de tamanho 8
+5 componentes de tamanho 9
+1 componente de tamanho 10
+1 componente de tamanho 11
+2 componentes de tamanho 14
+1 componente de tamanho 16
+2 componentes de tamanho 20
+1 componente de tamanho 29
+1 componente de tamanho 2368
+
+Total de: 82193 componentes
